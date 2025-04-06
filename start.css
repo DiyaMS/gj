@@ -1,0 +1,42 @@
+/* Remove default margin/padding */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+/* Heading styles */
+h1 {
+    margin-top: 20px;
+    font-size: 3em;
+    color: #333;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #666;
+}
+
+/* Fullscreen image */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+/* Link styling */
+a {
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    color: #0077cc;
+    font-size: 1.2em;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
