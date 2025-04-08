@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #d8f3dc; /* Light green */
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1b4332; /* Darker green for text */
+    text-align: center;
+}
+
+h1 {
+    margin: 0 0 10px 0;
+    font-size: 48px;
+}
+
+p {
+    font-size: 20px;
+    margin: 0;
+}

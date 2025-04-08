@@ -21,7 +21,7 @@ h3 {
 }
 
 /* Fullscreen image */
-img {
+div{
     max-width: 100%;
     height: auto;
     display: block;
